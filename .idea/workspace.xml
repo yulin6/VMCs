@@ -33,7 +33,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af6c6248-56f6-4125-b043-07cf39b63fd1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-objects.CoinTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-objects.DoorTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-objects.DrinkTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-objects.MachineTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-objects.SlotTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-util.JsonMachineConverterTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/objects.CoinTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/objects.DoorTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/objects.DrinkTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/objects.MachineTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/objects.SlotTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/util.JsonMachineConverterTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TestSuite.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/objects/CoinTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/objects/DoorTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/objects/DrinkTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/objects/MachineTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/objects/SlotTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/util/JsonMachineConverterTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/vendingMach-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/vendingMach-1.0-SNAPSHOT.jar" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -225,7 +247,7 @@
       <workItem from="1655124484692" duration="4571000" />
       <workItem from="1655187687964" duration="19087000" />
       <workItem from="1655617584121" duration="43802000" />
-      <workItem from="1656056667971" duration="5134000" />
+      <workItem from="1656056667971" duration="5315000" />
     </task>
     <servers />
   </component>
