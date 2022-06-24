@@ -72,7 +72,7 @@ public class JsonMachineConverterTest {
         Machine machine = JsonMachineConverter.jsonToMachineObject(jsonFile);
         assertEquals(2, machine.getSlots().size());
         assertEquals(3, machine.getCoins().size());
-        assertEquals("123456", machine.getPassword());
+        assertEquals("1234563", machine.getPassword());
     }
 
     @Test
