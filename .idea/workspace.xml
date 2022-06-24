@@ -33,56 +33,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af6c6248-56f6-4125-b043-07cf39b63fd1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MachineData.json" beforeDir="false" afterPath="$PROJECT_DIR$/MachineData.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestJson.json" beforeDir="false" afterPath="$PROJECT_DIR$/TestJson.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/observer/DoorObservable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/observer/DoorObservable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/observer/SlotObservable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/observer/SlotObservable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/controller/CustomerController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/controller/DataController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/controller/InterfaceCustomerController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/controller/InterfaceMaintainerController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/controller/InterfaceOperatorController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/controller/MaintainerController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/controller/OperatorController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/fxml/customer_panel.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/fxml/customer_panel.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/fxml/machinery_panel.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/fxml/machinery_panel.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/fxml/maintainer_panel.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/fxml/maintainer_panel.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/fxml/simulator_control_panel.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/fxml/simulator_control_panel.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/handler/BaseController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/handler/CustomerPanel$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/handler/CustomerPanel$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/handler/CustomerPanel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/handler/CustomerPanelController$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/handler/CustomerPanelController$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/handler/CustomerPanelController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/handler/InterfaceCustomerPanel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/handler/InterfaceCustomerPanelTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/handler/InterfaceMachineryPanel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/handler/InterfaceMaintainerPanel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/handler/InterfacePanel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/handler/InterfaceSimulatorControlPanel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/handler/MachineryPanel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/handler/MachineryPanelController$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/handler/MachineryPanelController$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/handler/MachineryPanelController$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/handler/MachineryPanelController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/handler/MaintainerPanel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/handler/MaintainerPanelController$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/handler/MaintainerPanelController$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/handler/MaintainerPanelController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/handler/Panel$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/handler/Panel$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/handler/Panel$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/handler/Panel$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/handler/Panel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/handler/SimulatorControlPanel$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/handler/SimulatorControlPanel$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/handler/SimulatorControlPanel$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/handler/SimulatorControlPanel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/handler/SimulatorControlPanelController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/json/data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controller/BaseController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controller/BaseController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controller/CustomerPanelController$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controller/CustomerPanelController$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controller/CustomerPanelController$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controller/CustomerPanelController$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controller/CustomerPanelController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controller/CustomerPanelController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controller/MachineryPanelController$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controller/MachineryPanelController$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controller/MachineryPanelController$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controller/MachineryPanelController$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controller/MachineryPanelController$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controller/MachineryPanelController$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controller/MachineryPanelController$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controller/MachineryPanelController$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controller/MachineryPanelController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controller/MachineryPanelController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controller/MaintainerPanelController$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controller/MaintainerPanelController$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controller/MaintainerPanelController$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controller/MaintainerPanelController$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controller/MaintainerPanelController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controller/MaintainerPanelController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controller/SimulatorControlPanelController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controller/SimulatorControlPanelController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/main/Start$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main/Start$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/main/Start$ViewType.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main/Start$ViewType.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/main/Start.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main/Start.class" afterDir="false" />
@@ -91,16 +57,46 @@
       <change beforePath="$PROJECT_DIR$/target/classes/objects/Drink.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/objects/Drink.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/objects/Machine.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/objects/Machine.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/objects/Slot.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/objects/Slot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/observer/AuthorizationObservable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/observer/AuthorizationObservable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/observer/CoinObservable$CoinObserverType.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/observer/CoinObservable$CoinObserverType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/observer/CoinObservable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/observer/CoinObservable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/observer/DoorObservable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/observer/DoorObservable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/observer/SlotObservable$SlotObserverType.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/observer/SlotObservable$SlotObserverType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/observer/SlotObservable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/observer/SlotObservable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/util/Constants.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/util/Constants.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/util/JsonMachineConverter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/util/JsonMachineConverter.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/view/BaseView.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/view/BaseView.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/view/CustomerPanelView.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/view/CustomerPanelView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/view/MachineryPanelView.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/view/MachineryPanelView.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/view/MaintainerPanelView.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/view/MaintainerPanelView.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/objects/MachineTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/objects/MachineTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/objects/SlotTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/objects/SlotTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/util/JsonMachineConverterTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/util/JsonMachineConverterTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/objects/MachineTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/objects/MachineTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/objects/SlotTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/objects/SlotTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/util/JsonMachineConverterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/util/JsonMachineConverterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/view/SimulatorControlPanelView.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/view/SimulatorControlPanelView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-objects.CoinTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-objects.DoorTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-objects.DrinkTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-objects.MachineTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-objects.SlotTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-util.JsonMachineConverterTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestSuit.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/objects.CoinTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/objects.DoorTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/objects.DrinkTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/objects.MachineTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/objects.SlotTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/util.JsonMachineConverterTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TestSuite.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/objects/CoinTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/objects/DoorTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/objects/DrinkTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/objects/MachineTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/objects/SlotTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/util/JsonMachineConverterTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/vendingMach-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/vendingMach-1.0-SNAPSHOT.jar" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,24 +124,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "WebServerToolWindowFactoryState": "false",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit4",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4": "",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.37696335",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit4&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4&quot;: &quot;&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.37696335&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -292,6 +288,7 @@
       <workItem from="1655124484692" duration="4571000" />
       <workItem from="1655187687964" duration="19087000" />
       <workItem from="1655617584121" duration="43802000" />
+      <workItem from="1656056667971" duration="3789000" />
     </task>
     <servers />
   </component>
